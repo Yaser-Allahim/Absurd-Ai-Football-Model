@@ -2,7 +2,7 @@
   <img src="https://github.com/Yaser-Allahim/Absurd-Ai-Football-Model/blob/main/AiLeague.png" />
 </p>
 <p align="center">
-  <img src="https://github.com/Yaser-Allahim/Absurd-Ai-Football-Model/blob/main/AbsurdAi.png" />
+  <img src="https://github.com/Yaser-Allahim/Absurd-Ai-Football-Model/blob/main/AbsurdAi invert.png" />
 </p>
 
 # 👁️ Absurd AI – 3D Match Viewer for Football Games ⚽
