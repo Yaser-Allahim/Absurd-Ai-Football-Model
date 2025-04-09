@@ -60,8 +60,8 @@ We’ve created a short video to showcase what the optimal sample video looks li
 
 ## 🧑‍💻 Team
 
-- Ibrahim Alhumud
-- Yaser Ibrahim
+- Ibrahim hamad alhumud
+- Yaser Ibrahim Allahem
 - AMR MOHAMED SOLIMAN
 - Hussam Abdulmohsen Alsumih
 
