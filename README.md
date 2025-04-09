@@ -62,7 +62,7 @@ We’ve created a short video to showcase what the optimal sample video looks li
 
 - Ibrahim hamad alhumud
 - Yaser Ibrahim Allahem
-- AMR MOHAMED SOLIMAN
+- Amr Mohamd Soliman
 - Hussam Abdulmohsen Alsumih
 
 ---
