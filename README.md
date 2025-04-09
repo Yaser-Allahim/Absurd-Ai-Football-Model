@@ -1,4 +1,9 @@
-![image](./AiLeague.png)![image](./AbsurdAi.png)
+<p align="center">
+  <img src="https://github.com/Yaser-Allahim/Absurd-Ai-Football-Model/blob/main/AiLeague.png" />
+</p>
+<p align="center">
+  <img src="https://github.com/Yaser-Allahim/Absurd-Ai-Football-Model/blob/main/AbsurdAi.png" />
+</p>
 
 # ⚽ Absurd AI – 3D Match Viewer for Football Games
 
