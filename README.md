@@ -5,7 +5,7 @@
   <img src="https://github.com/Yaser-Allahim/Absurd-Ai-Football-Model/blob/main/Absurd-Invert.png" />
 </p>
 
-# 👁️ Absurd AI – 3D Match Viewer for Football Games ⚽
+# 👁️ Absurd AI–3D Match Viewer for Football Games ⚽
 
 Absurd AI's model is an AI-driven system designed to bring football games to life in full 3D. Inspired by the free-camera view in FIFA games, our project aims to allow fans, referees, analysts, and developers to experience football matches from any angle—just like in a video game.
 
